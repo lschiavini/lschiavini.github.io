@@ -8,12 +8,12 @@ I graduated at [University of Brasilia](https://www.unb.br/).
 
 And at last I publish on my website about Decision Making, Tech, Design and philosophy: [https://luskira.com](https://www.luskira.com/)
 
-## Technologies I use
+## ⚒️ Technologies I use
 - C++
 - Typescript
 - Kotlin
 - Git and Github
 
-## Software I LOVE to use
+## 🥰 Software I LOVE to use
 - [Obsidian](https://obsidian.md)
 - [Pomofocus](https://pomofocus.io)
