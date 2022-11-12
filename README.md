@@ -1,3 +1,5 @@
+![my picture](https://lucas-schiavini.com/content/images/size/w1000/2022/08/eu2-optimized.png)
+
 # Lucas Schiavini
 
 Hello, I'm Lucas Schiavini, Engineer working at [Praxent](https://praxent.com).
